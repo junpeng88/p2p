@@ -15,6 +15,6 @@ package com.money;
 public class newFile {
     
     public static void main(String[] args) {
-		System.out.println("today is good");
+		System.out.println("today is gooddd");
 	}
 }
