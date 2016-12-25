@@ -18,5 +18,7 @@ public class User {
 	public static void main(String[] args) {
 		
 		System.out.println("I want to become a perfect IT man");
+		System.out.println("1111111111111111");
+		System.out.println("1111111111111111");
 	} 
 }
